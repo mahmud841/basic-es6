@@ -12,7 +12,7 @@ const add3 = function(number1, number2){
     return number1+ number2;
 }
 
-// arrow function 
+// arrow function writting format line 16
 const add4 =(number1, number2) => number1+ number2;
 
 const sum1 = add(15,14);
